@@ -1,0 +1,11 @@
+D:\TICH\SEMANA 3 ASP.NET\07-06-2022\ADOWinForms\ADOWinForms\bin\Debug\ADOWinForms.exe.config
+D:\TICH\SEMANA 3 ASP.NET\07-06-2022\ADOWinForms\ADOWinForms\bin\Debug\ADOWinForms.exe
+D:\TICH\SEMANA 3 ASP.NET\07-06-2022\ADOWinForms\ADOWinForms\bin\Debug\ADOWinForms.pdb
+D:\TICH\SEMANA 3 ASP.NET\07-06-2022\ADOWinForms\ADOWinForms\obj\Debug\ADOWinForms.csproj.AssemblyReference.cache
+D:\TICH\SEMANA 3 ASP.NET\07-06-2022\ADOWinForms\ADOWinForms\obj\Debug\ADOWinForms.csproj.SuggestedBindingRedirects.cache
+D:\TICH\SEMANA 3 ASP.NET\07-06-2022\ADOWinForms\ADOWinForms\obj\Debug\ADOWinForms.Properties.Resources.resources
+D:\TICH\SEMANA 3 ASP.NET\07-06-2022\ADOWinForms\ADOWinForms\obj\Debug\ADOWinForms.csproj.GenerateResource.cache
+D:\TICH\SEMANA 3 ASP.NET\07-06-2022\ADOWinForms\ADOWinForms\obj\Debug\ADOWinForms.csproj.CoreCompileInputs.cache
+D:\TICH\SEMANA 3 ASP.NET\07-06-2022\ADOWinForms\ADOWinForms\obj\Debug\ADOWinForms.exe
+D:\TICH\SEMANA 3 ASP.NET\07-06-2022\ADOWinForms\ADOWinForms\obj\Debug\ADOWinForms.pdb
+D:\TICH\SEMANA 3 ASP.NET\07-06-2022\ADOWinForms\ADOWinForms\obj\Debug\ADOWinForms.frmEstatusAlumnos.resources
